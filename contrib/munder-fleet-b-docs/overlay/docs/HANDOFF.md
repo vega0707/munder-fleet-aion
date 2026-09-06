@@ -22,7 +22,8 @@
 
 对照结论：[`docs/COMPARISON.md`](./COMPARISON.md)
 
-WorkBuddy 对标调研与为何 B 为主路径：[`docs/WORKBUDDY_ANALYSIS.md`](./WORKBUDDY_ANALYSIS.md) → 后续里程碑见 ROADMAP § P4。
+**设计方向（已定稿）：** [`docs/DESIGN_DIRECTION.md`](./DESIGN_DIRECTION.md)  
+WorkBuddy 调研：[`docs/WORKBUDDY_ANALYSIS.md`](./WORKBUDDY_ANALYSIS.md) → 里程碑见 ROADMAP § P4（含 EvoX 汇合纪律）。
 
 ## 不要做
 

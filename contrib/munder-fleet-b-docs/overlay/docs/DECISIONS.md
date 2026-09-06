@@ -31,3 +31,10 @@
 - 模块化借 A：企业 auth/SSO/realtime/Team MCP 可从 Aion 移植，不 fork 整仓 AionCore 作主后端。
 - 不以 D（Multica 主核）追 WorkBuddy：Multica 偏 dev fleet 接活 + 许可限制 SaaS；claim 语义已协议对齐，无需升主核。
 - P4 里程碑写入 `docs/ROADMAP.md`；仍遵守单一 Fleet 协议、Munder 品牌、Multica 不 vendor。
+
+## 2026-09-06 — 设计方向定稿（WorkBuddy + EvoX）
+
+- 正式设计方向文档：`docs/DESIGN_DIRECTION.md`。
+- **产品层取 WorkBuddy**（Expert / Skill / Project 注入 / 产物区）；**编排纪律取 EvoX**（子结果按 subtaskId **程序 merge**，Michael 默认禁止 LLM 转述重写；轻量 Experience 沉淀）。
+- A = 模块借、C = 洁癖备选、D = 仅 claim 语义；主仓仍为 B。
+- ROADMAP P4 拆为 P4-a（Expert/Skill/Project）→ P4-b（结构化汇合）→ P4-c（Experience / 企业治理）。
