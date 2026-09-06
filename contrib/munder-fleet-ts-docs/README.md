@@ -1,8 +1,8 @@
-# munder-fleet-b 文档同步包
+# munder-fleet-ts 文档同步包
 
-Cloud Agent 运行环境仅对 [`munder-fleet-a`](https://github.com/vega0707/munder-fleet-a) 有写权限，无法直接 push `vega0707/munder-fleet-b`。
+Cloud Agent 运行环境仅对 [`munder-fleet-aion`](https://github.com/vega0707/munder-fleet-aion) 有写权限，无法直接 push `vega0707/munder-fleet-ts`。
 
-本目录包含应落入 **munder-fleet-b** 的设计方向、WorkBuddy 调研与 P4 路线图变更。
+本目录包含应落入 **munder-fleet-ts** 的设计方向、WorkBuddy 调研与 P4 路线图变更。
 
 ## 内容
 
@@ -17,20 +17,20 @@ Cloud Agent 运行环境仅对 [`munder-fleet-a`](https://github.com/vega0707/mu
 
 ## 一键应用到 fleet-b
 
-在 **munder-fleet-b** 仓库根目录执行：
+在 **munder-fleet-ts** 仓库根目录执行：
 
 ```bash
 # 若从 fleet-a 克隆后
-./contrib/munder-fleet-b-docs/apply-to-fleet-b.sh
+./contrib/munder-fleet-ts-docs/apply-to-fleet-ts.sh
 
 # 或指定 overlay 路径
-/path/to/munder-fleet-a/contrib/munder-fleet-b-docs/apply-to-fleet-b.sh /path/to/munder-fleet-b
+/path/to/munder-fleet-aion/contrib/munder-fleet-ts-docs/apply-to-fleet-ts.sh /path/to/munder-fleet-ts
 ```
 
 ## 手动应用
 
 ```bash
-cp -r contrib/munder-fleet-b-docs/overlay/* /path/to/munder-fleet-b/
+cp -r contrib/munder-fleet-ts-docs/overlay/* /path/to/munder-fleet-ts/
 ```
 
 然后于 fleet-b 提交：

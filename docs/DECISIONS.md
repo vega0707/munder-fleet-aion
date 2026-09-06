@@ -31,5 +31,5 @@ AionCore 钉在 `docs/VERSIONS.md` 的 fork 点，用 `scripts/verify-aioncore.s
 
 ## 2026-09-06 — 产品主路径指向 B（本仓为激进对照）
 
-产品设计方向已定稿于 Strategy B 同步包：`contrib/munder-fleet-b-docs/overlay/docs/DESIGN_DIRECTION.md`（指针：`docs/DESIGN_DIRECTION.md`）。  
+产品设计方向已定稿于 Strategy B 同步包：`contrib/munder-fleet-ts-docs/overlay/docs/DESIGN_DIRECTION.md`（指针：`docs/DESIGN_DIRECTION.md`）。  
 本仓 A 继续作 AionCore 激进对照与模块供应方；**不**把 WorkBuddy/EvoX 产品层主实现放在 A。

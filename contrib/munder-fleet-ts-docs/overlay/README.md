@@ -1,4 +1,4 @@
-# munder-fleet-b — Strategy B（中等整合）
+# munder-fleet-ts — Strategy B（中等整合）
 
 **一句话：** **主仓仍是 Munder/TypeScript 栈**；大段 **vendor/重写** Aion 的 auth·Team·wake 与 Multica 的 daemon/claim **状态机**；用测试向量对齐上游行为。
 
@@ -7,7 +7,7 @@
 | | |
 |--|--|
 | 策略代号 | **B** |
-| 姊妹仓（含 [`munder-fleet-d`](../munder-fleet-d)） | [`munder-fleet-a`](../munder-fleet-a) · [`munder-fleet-c`](../munder-fleet-c) |
+| 姊妹仓（含 [`munder-fleet-multica`](../munder-fleet-multica)） | [`munder-fleet-aion`](../munder-fleet-aion) · [`munder-fleet-pure`](../munder-fleet-pure) |
 | 主实现栈 | Electron · React · Node（延续 munder-difflin） |
 | 状态 | P0–P3 契约落地（见 ROADMAP / COMPARISON） |
 

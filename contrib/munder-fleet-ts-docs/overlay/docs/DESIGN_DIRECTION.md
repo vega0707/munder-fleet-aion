@@ -151,7 +151,7 @@ WorkBuddy 产品层          EvoX 编排纪律
 
 | 问题 | 决定 |
 |------|------|
-| 产品主仓？ | **munder-fleet-b（Strategy B）** |
+| 产品主仓？ | **munder-fleet-ts（Strategy B）** |
 | 对标谁？ | WorkBuddy（产品层）+ EvoX（汇合/经验纪律） |
 | A/C/D？ | A 模块借、C 备选、D 仅语义 |
 | Michael 是否汇总改写？ | **默认否**；程序 merge |

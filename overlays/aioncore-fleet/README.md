@@ -1,17 +1,17 @@
 # AionCore Fleet Overlay (Strategy A)
 
 Applies Multica-**semantic** Fleet tables into an AionCore checkout.
-Source of behavior for P0–P3 demos remains `munder-fleet-a/src/fleet` until the Rust crate is fully wired.
+Source of behavior for P0–P3 demos remains `munder-fleet-aion/src/fleet` until the Rust crate is fully wired.
 
 ## Fork point
 
-See `FORK_POINT.md` (mirrors `docs/VERSIONS.md` in munder-fleet-a).
+See `FORK_POINT.md` (mirrors `docs/VERSIONS.md` in munder-fleet-aion).
 
 ## Apply
 
 ```bash
 ./scripts/apply-fleet-overlay.sh
-# from munder-fleet-a root; target defaults to refs/AionCore
+# from munder-fleet-aion root; target defaults to refs/AionCore
 ```
 
 ## Remaining Rust wiring (org fork)

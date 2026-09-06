@@ -1,7 +1,7 @@
 # WorkBuddy 调研 & Strategy B 对标建议
 
 > 调研日期：2026-09-01  
-> 姊妹仓对照：[`munder-fleet-a`](https://github.com/vega0707/munder-fleet-a) · [`munder-fleet-c`](https://github.com/vega0707/munder-fleet-c) · [`munder-fleet-d`](https://github.com/vega0707/munder-fleet-d)  
+> 姊妹仓对照：[`munder-fleet-aion`](https://github.com/vega0707/munder-fleet-aion) · [`munder-fleet-pure`](https://github.com/vega0707/munder-fleet-pure) · [`munder-fleet-multica`](https://github.com/vega0707/munder-fleet-multica)  
 > 后续里程碑：[`ROADMAP.md`](./ROADMAP.md) § P4
 
 ## 一、WorkBuddy 是什么

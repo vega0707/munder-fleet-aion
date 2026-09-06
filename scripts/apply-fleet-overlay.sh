@@ -20,4 +20,4 @@ cp -v "$OVERLAY/README.md" "$CORE/docs/munder-fleet/FLEET_OVERLAY.md"
 cp -v "$OVERLAY/FORK_POINT.md" "$CORE/docs/munder-fleet/FORK_POINT.md"
 
 echo "Overlay applied into $CORE"
-echo "Next: implement aionui-fleet crate wiring (see overlay README). P0/P1 runtime semantics currently live in munder-fleet-a src/fleet."
+echo "Next: implement aionui-fleet crate wiring (see overlay README). P0/P1 runtime semantics currently live in munder-fleet-aion src/fleet."

@@ -1,4 +1,4 @@
-# munder-fleet-a — Strategy A（激进整合）
+# munder-fleet-aion — Strategy A（激进整合）
 
 **一句话：** 以 **AionCore fork** 做 Control/Runtime 平面；按 **Multica 语义**实现多机 claim/runtime；**Munder Difflin** 只做表现层壳。
 
@@ -7,7 +7,7 @@
 | | |
 |--|--|
 | 策略代号 | **A** |
-| 姊妹仓（含 [`munder-fleet-d`](../munder-fleet-d)） | [`munder-fleet-b`](../munder-fleet-b)（中等）· [`munder-fleet-c`](../munder-fleet-c)（自研对齐） |
+| 姊妹仓（含 [`munder-fleet-multica`](../munder-fleet-multica)） | [`munder-fleet-ts`](../munder-fleet-ts)（中等）· [`munder-fleet-pure`](../munder-fleet-pure)（自研对齐） |
 | 上游对照 | [iOfficeAI/AionCore](https://github.com/iOfficeAI/AionCore) · [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) · [multica-ai/multica](https://github.com/multica-ai/multica) · [vega0707/munder-difflin](https://github.com/vega0707/munder-difflin) |
 | 状态 | **P0–P3 语义面可演示** · AionCore 钉版 + Fleet（SQLite/Worker/Gate）+ Munder 壳 · Core Rust 合入待 org fork |
 
@@ -42,7 +42,7 @@ PendingDecision → owner
 ## 仓库布局
 
 ```
-munder-fleet-a/
+munder-fleet-aion/
   README.md
   AGENTS.md
   package.json
