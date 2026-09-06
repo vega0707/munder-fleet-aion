@@ -28,3 +28,8 @@ AionCore 钉在 `docs/VERSIONS.md` 的 fork 点，用 `scripts/verify-aioncore.s
 - P1 DecisionGate + Michael inbox；P2 多 runtime/heartbeat/并发上限/手动 claim；P3 日志用量、hive 导入、穿透文档。
 - AionCore 合入路径：`overlays/aioncore-fleet` + `scripts/apply-fleet-overlay.sh`（migration 先行；Rust 路由待 org fork）。
 - 明确未做：真实 Team MCP wake 全链路、真实 Agent CLI 协议、GitHub org fork 创建。
+
+## 2026-09-06 — 产品主路径指向 B（本仓为激进对照）
+
+产品设计方向已定稿于 Strategy B 同步包：`contrib/munder-fleet-b-docs/overlay/docs/DESIGN_DIRECTION.md`（指针：`docs/DESIGN_DIRECTION.md`）。  
+本仓 A 继续作 AionCore 激进对照与模块供应方；**不**把 WorkBuddy/EvoX 产品层主实现放在 A。
